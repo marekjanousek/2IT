@@ -1,5 +1,3 @@
-Tady je jednoduchý popis tvého webu, který můžeš použít třeba při obhajobě před učitelem nebo porotou. Je to rozdělené na to, co web ukazuje (obsah) a co dělá (technologie).
-
 1. Co web ukazuje (Obsah a styl)
 Web funguje jako moderní digitální vizitka (portfolio) studenta IT.
 
