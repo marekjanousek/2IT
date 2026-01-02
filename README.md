@@ -1,26 +1,21 @@
-1. Co web ukazuje (Obsah a styl)
-Web funguje jako moderní digitální vizitka (portfolio) studenta IT.
+SoluS | Digital Portfolio
 
-Vizuální identita: Používá temný režim s kyano-fialovými akcenty, což působí jako hackerské rozhraní nebo terminál.
+Stručný popis
+Interaktivní digitální vizitka studenta 2. ročníku IT, postavená na konceptu hackerského terminálu a moderního webového designu. Web představuje osobní brand SoluS.
 
-Osobní brand: Představuje tě pod jménem SoluS jako studenta 2. ročníku.
+Použité technologie a knihovny
+- **HTML5 & CSS3**
+- **Tailwind CSS** (stylování pomocí utility classes)
+- **GSAP (GreenSock Animation Platform)** (komplexní animace)
+- **GSAP ScrollTrigger** (spouštění animací při scrollování)
 
-Autentičnost: Místo nudných frází ukazuje tvůj reálný přístup – že jsi "průměrný aujťák", který bojuje s JavaScriptem a miluje kávu.
+Návod na spuštění
+Pro spuštění není potřeba žádný build proces. 
+1. Naklonujte repozitář nebo stáhněte ZIP.
+2. Otevřete soubor `index.html` v jakémkoliv moderním prohlížeči.
+3. Web je také nasazen na GitHub Pages (odkaz v sekci About).
 
-Stylový placeholder: Místo chybějící fotky využívá interaktivní "zašifrovaný profil" s animovaným skenerem, což vypadá jako záměr, ne jako chyba.
-
-2. Co web dělá (Funkce a efekty)
-Technicky je web postaven na špičkových nástrojích, které se dnes v profi sféře používají:
-
-Interaktivní kurzor: Web má vlastní kruhový kurzor, který reaguje na pohyby myši a při najetí na tlačítka se zvětšuje (vytváří pocit hloubky).
-
-Plynulé animace (GSAP): Všechny prvky na stránku "přilétají" plynule. Texty se odkrývají postupně, což vypadá mnohem profesionálněji než statický web.
-
-Scroll-Trigger efekty: Animace se spouštějí až ve chvíli, kdy na ně uživatel naroluje. Například "Skill Matrix" (ukazatele dovedností) se vybarví, až když k nim dojedeš.
-
-Responzivita (Tailwind CSS): Web se automaticky přizpůsobí obrazovce – vypadá skvěle na obřím monitoru i na mobilu.
-
-Aktivní prvky: Tlačítko "Spustit protokol" tě plynule hodí na další sekci a e-mailový odkaz rovnou otevírá aplikaci pro psaní zpráv.
-
-3. Hlavní zpráva webu
-Web říká: "Jsem SoluS, rozumím moderním technologiím, mám smysl pro design a umím si ze sebe udělat legraci."
+Prvky, na které jsem nejvíce hrdý
+- **Custom interaktivní kurzor:** Plynulé sledování myši s efektem zvětšení při najetí na interaktivní prvky.
+- **Glitch Identity:** Kreativní zpracování "chybějící" fotografie pomocí animovaného skeneru a hackerského textu.
+- **Scroll animace:** Plynulé odkrývání sekcí a grafické znázornění dovedností (Skill Matrix) pomocí knihovny GSAP.
