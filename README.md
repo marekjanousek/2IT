@@ -1,8 +1,3 @@
-SoluS | Digital Portfolio
-
-Stručný popis
-Interaktivní digitální vizitka studenta 2. ročníku IT, postavená na konceptu hackerského terminálu a moderního webového designu. Web představuje osobní brand SoluS.
-
 Použité technologie a knihovny
 - **HTML5 & CSS3**
 - **Tailwind CSS** (stylování pomocí utility classes)
